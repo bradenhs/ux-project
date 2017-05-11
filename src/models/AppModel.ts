@@ -2,8 +2,6 @@ import fnx from 'fnx'
 import { includes } from 'lodash'
 import { ArtPieceModel } from '~/models/ArtPieceModel'
 
-const search = 'girl'
-
 export class AppModel extends fnx.Model<AppModel> {
   artwork = fnx.mapOf(fnx.object(ArtPieceModel))
   requestsInProgress = fnx.number
