@@ -1,6 +1,6 @@
 ## Getting Started
 
-View the site live here [tate-gallery.netlify.com](tate-gallery.netlify.com).
+View the site live here [tate-gallery.netlify.com](http://tate-gallery.netlify.com).
 
 To get things set up for development run these commands:
 
